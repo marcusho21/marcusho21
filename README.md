@@ -3,20 +3,25 @@
 <table>
   <td>
     <div>
-      <h2>Who am I?</h2>
-      <p>
-        <li>I am a web tech nerd based in Toronto, Canada</li>
+      <h2 style="border-bottom: 1px solid #363E47">Who am I?</h2>
+      <ul>
         <li>
-          I'm passionate about building web app using all sort of web tech tools
+          I am a web tech nerd based in Toronto, Canada</li>
+        <li>
+          I'm passionate about building web stuffs
         </li>
         <li>
-          I have experiences building web stuffs
+          I have experiences building web APPs
         </li>
         <li>My favorite tech that I've used is Firebase</li>
-        <li>My latest obsessions include Web Components and Micro Frontend</li>
-      </p>
+        <li>
+          My latest obsession is Micro Frontend
+        </li>
+      </ul>
     </div>
-    <h2>What am I good at?</h2>
+    <h2 style="border-bottom: 1px solid #363E47">
+      What am I good at?
+    </h2>
     <img src="https://github.com/marcusho21/marcusho21/blob/main/things.svg" width="auto" height="auto">
   </td>
 
