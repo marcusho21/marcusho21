@@ -22,7 +22,7 @@
     <h2 style="border-bottom: 1px solid #363E47;">
       What am I good at?
     </h2>
-    <img src="https://github.com/marcusho21/marcusho21/blob/main/things.svg" width="auto" height="auto">
+    <img src="https://github.com/marcusho21/marcusho21/blob/main/tags.svg" width="auto" height="auto">
   </td>
 
   <td>
