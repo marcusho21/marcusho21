@@ -37,27 +37,26 @@
 
 			<div class="container">
 				<div>
-					<div class="tags">
-						<div class="tag">Angular</div>
-						<div class="tag">React</div>
-					</div>
-          <div class="tags">
-						<div class="tag">CSS</div>
-            <div class="tag">SASS</div>
-          </div>
-					<div class="tags">
-						<div class="tag">JavaScript</div>
-						<div class="tag">TypeScript</div>
-					</div>
-					<div class="tags">
-						<div class="tag">Express</div>
-						<div class="tag">Node</div>
-					</div>
-          <div class="tags">
-						<div class="tag">MongoDB</div>
-						<div class="tag">Firebase</div>
-					</div>
-				</div>
-		</div>
+        <div class="tags">
+          <div class="tag">Angular</div>
+          <div class="tag">React</div>
+        </div>
+        <div class="tags">
+          <div class="tag">CSS</div>
+          <div class="tag">SASS</div>
+        </div>
+        <div class="tags">
+          <div class="tag">JavaScript</div>
+          <div class="tag">TypeScript</div>
+        </div>
+        <div class="tags">
+          <div class="tag">Express</div>
+          <div class="tag">Node</div>
+        </div>
+        <div class="tags">
+          <div class="tag">MongoDB</div>
+          <div class="tag">Firebase</div>
+        </div>
+      </div>
 	</foreignObject>
 </svg>
