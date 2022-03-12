@@ -1,0 +1,72 @@
+<svg
+	fill="none"
+	viewBox="0 0 400 120"
+	width="400"
+	height="120"
+	xmlns="http://www.w3.org/2000/svg"
+>
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					display: flex;
+					justify-content: space-between;
+				}
+
+				.tags {
+					display: flex;
+					flex-wrap: wrap;
+					height: max-content;
+					width: 100%;
+					margin-bottom: 5px;
+				}
+
+				.tag {
+					display: flex;
+					align-items: center;
+					justify-content: center;
+					gap: 5px;
+					padding: 1px 10px;
+					border-radius: 10px;
+					font-size: 0.85rem;
+					width: max-content;
+					font-family: sans-serif;
+					background-color: #7ca9d3;
+					color: #214260;
+					margin: 0.125em;
+				}
+			</style>
+
+			<div class="container">
+				<div>
+					<div class="tags">
+						<div class="tag">Angular</div>
+						<div class="tag">React</div>
+					</div>
+          <div class="tags">
+						<div class="tag">CSS</div>
+            <div class="tag">SASS</div>
+          </div>
+					<div class="tags">
+						<div class="tag">JavaScript</div>
+						<div class="tag">TypeScript</div>
+					</div>
+					<div class="tags">
+						<div class="tag">Express</div>
+						<div class="tag">Node</div>
+					</div>
+          <div class="tags">
+						<div class="tag">MongoDB</div>
+						<div class="tag">Firebase</div>
+					</div>
+				</div>
+
+				<div>
+					<a href="https://app.daily.dev/marcusho21">
+						<img src="https://github.com/marcusho21/marcusho21/blob/main/devcard.svg" width="400" alt="Marcus Ho's Dev Card" />
+					</a>
+				</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
