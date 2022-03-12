@@ -1,7 +1,7 @@
 # Hi there! 👋️
 
 <table style="border: none;">
-  <td style="vertical-align: top;">
+  <td style="display: flex; flex-direction: column; justify-content: start;">
     <div>
       <h2 style="border-bottom: 1px solid #363E47;">Who am I?</h2>
       <ul>
