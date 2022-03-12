@@ -1,9 +1,9 @@
 # Hi there! 👋️
 
-<table style="border: none">
+<table style="border: none;">
   <td>
     <div>
-      <h2 style="border-bottom: 1px solid #363E47">Who am I?</h2>
+      <h2 style="border-bottom: 1px solid #363E47;">Who am I?</h2>
       <ul>
         <li>
           I am a web tech nerd based in Toronto, Canada</li>
@@ -19,7 +19,7 @@
         </li>
       </ul>
     </div>
-    <h2 style="border-bottom: 1px solid #363E47">
+    <h2 style="border-bottom: 1px solid #363E47;">
       What am I good at?
     </h2>
     <img src="https://github.com/marcusho21/marcusho21/blob/main/things.svg" width="auto" height="auto">
