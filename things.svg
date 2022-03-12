@@ -1,8 +1,6 @@
 <svg
 	fill="none"
-	viewBox="0 0 400 120"
-	width="400"
-	height="120"
+	viewBox="0 0 400 200"
 	xmlns="http://www.w3.org/2000/svg"
 >
 	<foreignObject width="100%" height="100%">
@@ -16,7 +14,7 @@
 				.tags {
 					display: flex;
 					flex-wrap: wrap;
-					height: max-content;
+					height: 50%;
 					width: 100%;
 					margin-bottom: 5px;
 				}
