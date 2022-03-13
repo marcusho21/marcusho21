@@ -15,7 +15,7 @@
 		<h2 style="border-bottom: 1px solid #363e47">What am I good at?</h2>
 		<img
 			src="https://github.com/marcusho21/marcusho21/blob/main/tags.svg"
-			width="450px"
+			width="650px"
 			height="auto"
 		/>
 	</td>
