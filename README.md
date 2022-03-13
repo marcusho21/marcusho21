@@ -1,7 +1,7 @@
 # Hi there! 👋️
 
-<table width="100%">
-	<td style="vertical-align: top">
+<table>
+	<td width="450">
 		<div>
 			<h2 style="border-bottom: 1px solid #363e47">Who am I?</h2>
 			<ul>
