@@ -1,7 +1,7 @@
 # Hi there! 👋️
 
 <table>
-	<td width="450">
+	<td width="450px">
 		<div>
 			<h2 style="border-bottom: 1px solid #363e47">Who am I?</h2>
 			<ul>
@@ -25,7 +25,7 @@
       <img
         src="https://github.com/marcusho21/marcusho21/blob/main/devcard.svg"
         alt="Marcus Ho's Dev Card"
-	width="300"
+	width="300px"
       />
     </a>
   </td>
