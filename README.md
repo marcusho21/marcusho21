@@ -21,4 +21,4 @@
 
 &nbsp;
 
-![](https://komarev.com/ghpvc/?username=marcusho21&color=blue)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarcusho21&count_bg=%233DAEC8&title_bg=%23616060&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
