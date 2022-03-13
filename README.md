@@ -1,7 +1,7 @@
 # Hi there! 👋️
 
-<table style="width:100%;">
-	<td style="width:65%;">
+<table>
+	<td>
 		<div>
 			<h2 style="border-bottom: 1px solid #363e47">Who am I?</h2>
 			<ul>
@@ -15,7 +15,7 @@
 		<h2 style="border-bottom: 1px solid #363e47">What am I good at?</h2>
 		<img
 			src="https://github.com/marcusho21/marcusho21/blob/main/tags.svg"
-		        width="auto"
+		        width="600px"
 			height="auto"
 		/>
 	</td>
