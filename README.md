@@ -1,8 +1,8 @@
 # Hi there! 👋️
 
 <table>
-	<td width="450px">
-		<div>
+	<td>
+		<div width="450px">
 			<h2 style="border-bottom: 1px solid #363e47">Who am I?</h2>
 			<ul>
 				<li>I am a web tech nerd based in Toronto, Canada</li>
