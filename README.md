@@ -1,6 +1,6 @@
 # Hi there! 👋️
 
-<table border="0">
+<table width="100%">
 	<td style="vertical-align: top">
 		<div>
 			<h2 style="border-bottom: 1px solid #363e47">Who am I?</h2>
