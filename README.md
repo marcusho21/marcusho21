@@ -2,7 +2,7 @@
 
 <table>
 	<td>
-		<div width="450px">
+		<div>
 			<h2 style="border-bottom: 1px solid #363e47">Who am I?</h2>
 			<ul>
 				<li>I am a web tech nerd based in Toronto, Canada</li>
@@ -15,7 +15,7 @@
 		<h2 style="border-bottom: 1px solid #363e47">What am I good at?</h2>
 		<img
 			src="https://github.com/marcusho21/marcusho21/blob/main/tags.svg"
-			width="auto"
+			width="450px"
 			height="auto"
 		/>
 	</td>
