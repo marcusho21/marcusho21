@@ -19,4 +19,6 @@
 	<img src="https://github.com/marcusho21/marcusho21/blob/main/devcard.svg" alt="Marcus Ho's Dev Card" width="400px"/>
 </a>
 
+&nbsp;
+
 ![](https://komarev.com/ghpvc/?username=marcusho21&color=blue)
