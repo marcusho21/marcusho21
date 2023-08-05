@@ -33,18 +33,20 @@
         <div class="tag">React</div>
         <div class="tag">CSS</div>
         <div class="tag">SASS</div>
+        <div class="tag">Lit</div>
       </div>
       <div class="tags">
         <div class="tag">JavaScript</div>
         <div class="tag">TypeScript</div>
+        <div class="tag">Web Components</div>
       </div>
       <div class="tags">
         <div class="tag">Express</div>
         <div class="tag">Node</div>
       </div>
       <div class="tags">
-        <div class="tag">MongoDB</div>
         <div class="tag">Firebase</div>
+        <div class="tag">Supabase</div>
       </div>
 
     </div>
