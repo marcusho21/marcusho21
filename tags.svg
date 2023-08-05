@@ -30,15 +30,15 @@
 
       <div class="tags">
         <div class="tag">Angular</div>
-        <div class="tag">React</div>
-        <div class="tag">CSS</div>
-        <div class="tag">SASS</div>
         <div class="tag">Lit</div>
+        <div class="tag">Web Components</div>
+        <div class="tag">Reactive Programming</div>
+        <div class="tag">Jest</div>
+        <div class="tag">Web Test Runner</div>
       </div>
       <div class="tags">
-        <div class="tag">JavaScript</div>
-        <div class="tag">TypeScript</div>
-        <div class="tag">Web Components</div>
+        <div class="tag">JavaScript / TypeScript</div>
+        <div class="tag">CSS / SASS</div>
       </div>
       <div class="tags">
         <div class="tag">Express</div>
