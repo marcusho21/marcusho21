@@ -5,8 +5,8 @@
 - I am a web tech nerd based in Toronto, Canada
 - I'm passionate about building web stuffs
 - I have experiences building web APPs
-- My favorite tech that I've used is Firebase
-- My latest obsession is Micro Frontend
+- My favorite tech that I've used is RxJS (Yes, that's right)
+- My latest obsession is Design System and Web Components
 
 ## What am I good at?
 
