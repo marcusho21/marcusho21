@@ -15,7 +15,7 @@
 ## What am I reading?
 
 <a href="https://app.daily.dev/marcusho21">
-  <img src="https://github.com/marcusho21/marcusho21/blob/main/devcard.svg" alt="Marcus Ho's Dev Card" width="400px"/>
+  <img src="https://github.com/marcusho21/marcusho21/blob/main/devcard.png" alt="Marcus Ho's Dev Card" width="400px"/>
 </a>
 
 &nbsp;
